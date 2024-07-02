@@ -45,29 +45,29 @@ const Data = [
     {
         id: 4,
         imgSrc: img4,
-        destTitle: 'destination 1',
-        location: 'place 1',
-        grade: 'gfgdfg gerg',
-        fees: '$700',
-        description: 'dfgdsfhfh dfgdfgsdf ggtrtwer cv dffdfgdgd ertertere rgergg.'
+        destTitle: 'Gokarna',
+        location: 'Karnataka',
+        grade: 'Beach',
+        fees: '$200',
+        description: 'Gokarna is a small temple town located in the Uttara Kannada district of Karnataka state in southern India, It has a population of around 20,000. Shiva is the most worshipped deity in the town. Gokarnas main temple, Mahabaleshwara.'
     },
     {
         id: 5,
         imgSrc: img5,
-        destTitle: 'destination 1',
-        location: 'place 1',
-        grade: 'gfgdfg gerg',
-        fees: '$700',
-        description: 'dfgdsfhfh dfgdfgsdf ggtrtwer cv dffdfgdgd ertertere rgergg.'
+        destTitle: 'Ankola',
+        location: 'Karnataka',
+        grade: 'Beach',
+        fees: '$100',
+        description: 'Ankola is a Town Municipal Council and a taluka in Uttara Kannada district of the Indian state of Karnataka. The name of the place is derived from a forest shrub Ankola grown on the coastal hill side and worshiped by the Halakki Vokkaligas as a totem.'
     },
     {
         id: 6,
         imgSrc: img6,
-        destTitle: 'destination 1',
-        location: 'place 1',
-        grade: 'gfgdfg gerg',
+        destTitle: 'Yellapur',
+        location: 'Karnataka',
+        grade: 'Forest',
         fees: '$700',
-        description: 'dfgdsfhfh dfgdfgsdf ggtrtwer cv dffdfgdgd ertertere rgergg.'
+        description: 'Yellapura is a town in the Uttara Kannada district of Karnataka, India. Arecanut is the primary crop grown in the villages surrounding the town. Approximately 90% of the population of Yellapura are farmers who grow Arecanut and paddy.'
     },
 ]
 
